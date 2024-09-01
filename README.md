@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sriram1909
-- 👀 I’m interested in App, Web development, Machine Learning, and AI.
-- 🌱 I’m currently learning app development
-- 💞️ I’m looking to collaborate on App development
-- 📫 How to reach me "https://www.linkedin.com/in/venkata-sriram-amballa-832a31224/"
+- 👀 I’m interested in Web development, Machine Learning, CyberSecurity and AI.
+- 🌱 I’m currently learning .NET framework
+- 📫 How to reach me "https://www.linkedin.com/in/venkatasriramamballa/"
 - Twitter : "https://twitter.com/SriramAmballa"
 
 <!---
